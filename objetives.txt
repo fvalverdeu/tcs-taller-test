@@ -1,2 +1,4 @@
 1. Aprender git
 2. Usar repositorios remotos
+3. Usar ramas locales
+4. Usar ramas remotas
