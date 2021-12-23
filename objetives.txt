@@ -1,0 +1,2 @@
+1. Aprender git
+2. Usar repositorios remotos
