@@ -1,4 +1,6 @@
-hola mundo
+Este es nuestro equipo
+-------------------------------------------
+
 Valeria Delgado | deyavddc20@gmail.com
 Fernando Valverde | fvalverdeu@gmail.com
 Lucia Paima | lucia.paima@outlook.com
